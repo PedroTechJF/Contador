@@ -15,5 +15,5 @@ Uma simples contador para uso diário, com opção de adicionar, dimuinuir e res
 
 ## Licença
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/PedroTechJF/Contador/blob/main/LICENSE)
 
